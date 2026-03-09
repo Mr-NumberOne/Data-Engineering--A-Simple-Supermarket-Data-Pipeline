@@ -1,0 +1,10 @@
+numpy
+pandas
+faker
+psycopg2-binary
+sqlalchemy
+fastapi
+uvicorn[standard]
+pydantic
+requests
+schedule
